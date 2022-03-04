@@ -1,0 +1,23 @@
+.head {
+    text-align: center;
+}
+
+.one,
+.two {
+    font-weight: 700;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.one {
+    background-color: green;
+}
+
+.two {
+    background-color: red;
+}
+
+.img {
+    height: auto;
+    width: 200px;
+}
